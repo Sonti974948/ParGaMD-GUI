@@ -167,6 +167,18 @@ export FLASK_ENV=development
 python ui_app.py
 ```
 
+## 📚 Citation
+
+If you use this tool in your research, please cite:
+
+```bibtex
+@article{sonti2025accelerating,
+  title={Accelerating free energy exploration using parallelizable Gaussian accelerated molecular dynamics (ParGaMD)},
+  author={Sonti, Siddharth and Thyagatur, Anugraha and Wan, Hung-Yu and Hamelynck, Maxen and Faller, Roland and Ahn, Surl-Hee},
+  year={2025}
+}
+```
+
 ## 🤝 Contributing
 
 1. Fork the repository
@@ -191,8 +203,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For issues, questions, or contributions:
 - Create an issue on GitHub
-- Contact the development team
-- Check the troubleshooting section above
+- Contact us
+
 
 ## 🔄 Version History
 
