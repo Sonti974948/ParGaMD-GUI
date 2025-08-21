@@ -44,7 +44,7 @@ The ZIP export includes complete directory structure:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/ParGaMD-GUI.git
+   git clone https://github.com/Sonti974948/ParGaMD-GUI.git
    cd ParGaMD-GUI
    ```
 
